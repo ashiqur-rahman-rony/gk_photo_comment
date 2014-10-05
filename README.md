@@ -26,9 +26,9 @@ Plugin will fetch the comments from Flickr and 500px for a photo and show as pos
 * Links to original comment on Flickr and 500px
 
 ##Installation
-1. Upload \"gk-photo-comment\" directory inside the \"/wp-content/plugins/\" directory.
-2. Activate the plugin through the \"Plugins\" menu in WordPress.
-3. Go to \"GK Photo Comment\" from the menu and add app permission to your Flickr and 500px account.
+1. Upload `gk-photo-comment` directory inside the `/wp-content/plugins/` directory.
+2. Activate the plugin through the `Plugins` menu in WordPress.
+3. Go to `GK Photo Comment` from the menu and add app permission to your Flickr and 500px account.
 
 **Frequently Asked Questions**
 >**Is it absolutely necessary to set the application permission?**
