@@ -1,13 +1,18 @@
-#GoodKoding Photo Comment
+GoodKoding Photo Comment
 =========
-Contributors: goodkoding
-Tags: photo, comment, flickr, 500px, image, picture, post
-Requires at least: 3.0.1
-Tested up to: 3.9.2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+**Contributors:** goodkoding
 
-Import comments to your photo from Flickr and 500px
+**Tags:** photo, comment, flickr, 500px, image, picture, post
+
+**Requires at least:** 3.0.1
+
+**Tested up to:** 3.9.2
+
+**License:** GPLv2 or later
+
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+
+Import comments to your photo post of WordPress from Flickr and 500px.
 
 ##Description
 Plugin will fetch the comments from Flickr and 500px for a photo and show as post comments. Mostly useful for portfolio websites of photographers.
