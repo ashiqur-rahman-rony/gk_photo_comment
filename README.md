@@ -26,10 +26,12 @@ Plugin will fetch the comments from Flickr and 500px for a photo and show as pos
 3. Go to \"GK Photo Comment\" from the menu and add app permission to your Flickr and 500px account.
 
 **Frequently Asked Questions**
->*Is it absolutely necessary to set the application permission?*
+>**Is it absolutely necessary to set the application permission?**
+
 >Yes. Without the permission we cannot fetch the comments from you photo.
 
->*What about security?*
+>**What about security?**
+
 >It is completely secure because we do not get any of your credentials except limited access to your photo and comments.
 
 ##Changelog
